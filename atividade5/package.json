@@ -1,0 +1,14 @@
+{
+  "name": "agendamento-consulta",
+  "version": "1.0.0",
+  "description": "Sistema de Agendamento de Consultas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mustache-express": "^1.3.2"
+  }
+}
